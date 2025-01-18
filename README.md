@@ -11,6 +11,7 @@ Halo saya fathan jamil saya adalah seorang front end developer
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://www.php.net/images/logos/new-php-logo.svg" /></a>
   <br>
   <br>
 
