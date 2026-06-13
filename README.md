@@ -1,152 +1,68 @@
-<div align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fathanjamilrises.fathanjamilrises" />
 
-# 🟨⬛ FATHAN JAMIL ⬛🟨
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fathan+Jamil!;" />
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=900&size=32&duration=2500&pause=800&color=000000&background=FFD60A&center=true&vCenter=true&width=700&height=80&lines=FATHAN+JAMIL;FRONT-END+DEVELOPER;REACT+%2B+JAVASCRIPT;BUILDING+COOL+STUFF" />
-
-<br/>
-
-![OPEN TO WORK](https://img.shields.io/badge/🟢_OPEN_TO_COLLAB-000000?style=for-the-badge\&logoColor=white\&labelColor=FFD60A)
-![INDONESIA](https://img.shields.io/badge/📍_INDONESIA-000000?style=for-the-badge\&logoColor=white\&labelColor=00F5D4)
-![LEARNING](https://img.shields.io/badge/⚡_LEARNING_REACT-000000?style=for-the-badge\&logoColor=white\&labelColor=FF006E)
-
-</div>
-
----
-
-# 📦 ABOUT_ME.exe
-
-```bash
-> Name      : Fathan Jamil
-> Role      : Front-End Developer
-> Stack     : React | TypeScript | JavaScript
-> Learning  : React Ecosystem
-> Studio    : CHEEZY PEEZY
-> Mission   : Build products for Indonesia
-```
-
-<table>
-<tr>
-<td width="50%">
-
-## 🎯 CURRENT FOCUS
-
-🟨 React Development
-
-🟦 UI/UX Design
-
-🟩 Web Apps
-
-🟥 Indie Game Development
-
-</td>
-
-<td width="50%">
-
-## 🔥 FUN FACTS
-
-🎮 Build games at night
-
-☕ Survive with coffee
-
-🚀 Love launching projects
-
-💡 Always learning
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚒️ TECH ARSENAL
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FFD60A?style=for-the-badge\&logo=javascript\&logoColor=000000)
-
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3A86FF?style=for-the-badge\&logo=typescript)
-
-![React](https://img.shields.io/badge/REACT-00F5D4?style=for-the-badge\&logo=react\&logoColor=000000)
-
-![NextJS](https://img.shields.io/badge/NEXT.JS-FFFFFF?style=for-the-badge\&logo=nextdotjs\&logoColor=000000)
-
-![NodeJS](https://img.shields.io/badge/NODE.JS-FF006E?style=for-the-badge\&logo=node.js)
-
-![Tailwind](https://img.shields.io/badge/TAILWIND-8338EC?style=for-the-badge\&logo=tailwindcss)
-
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-## 🌸 NANIMEID
-
-```diff
-+ Anime Platform
-+ React + TypeScript
-+ Indonesia Market
-+ Pink Brutalist UI
-```
-
----
-
-## 🕌 QALBY APP
-
-```diff
-+ Islamic Companion App
-+ Bento Grid Design
-+ Dark Mode System
-+ 20+ PRD Modules
-```
-
----
-
-## 🃏 THE BLACK JACK
-
-```diff
-+ Tactical Board Game
-+ 22 Unique Roles
-+ Multiplayer Realtime
-+ CHEEZY PEEZY Studio
-```
-
----
-
-# 📊 GITHUB WAR ROOM
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fathanjamilrises&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFD60A&title_color=000000&text_color=000000&icon_color=FF006E&border_color=000000&border_radius=0" />
-
-</div>
-
----
-
-# 🛸 CONNECT
-
-<div align="center">
-
-### ⚡ FIND ME ON THE INTERNET
-
-<a href="https://github.com/fathanjamilrises">
-<img src="https://img.shields.io/badge/GITHUB-FFD60A?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
+<h3 align="center">A passionate front-end developer from Indonesia 🇮🇩</h3>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fathanjamilrises\&color=FFD60A\&style=for-the-badge)
+<div align="center">
+
+🔭 I'm currently working on **Astakira Media**
+
+🌱 I'm currently learning **React**
+
+💬 Ask me about **JavaScript, UI/UX, and front-end development**
+
+😄 Pronouns: **Fathan**
 
 </div>
 
----
+<div align="center"> 
+  <a href="https://github.com/fathanjamilrises" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Uncomment and fill these in if you'd like to add them
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.example.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  -->
+</div>
 
-```txt
-███████╗ █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ██╗
-██╔════╝██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗  ██║
-█████╗  ███████║   ██║   ███████║███████║██╔██╗ ██║
-██╔══╝  ██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╗██║
-██║     ██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,tailwind,html,css,php,python" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vite,firebase" /><br>
+</div>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fathanjamilrises/fathanjamilrises/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=fathanjamilrises&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fathanjamilrises&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fathanjamilrises&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
+<br/><br/>
+<hr/>
