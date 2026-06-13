@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🔭 I'm currently working on **Astakira Media**
+🔭 I'm currently working on **Astakira Media as a Fullstack Developer**
 
 🌱 I'm currently learning **React**
 
